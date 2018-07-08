@@ -1,0 +1,13 @@
+# /node_modules/* and /bower_components/* in the project root are ignored by default
+
+*/node_modules
+*/dump
+*/build
+*/npm-debug.log
+*.env
+*.DS_Store
+.idea/
+*/config/config.js
+.gitconfig
+
+

@@ -1,0 +1,86 @@
+.how .how-end-icon {
+    background-color: HSLA(205, 85%, 92%, 1);
+    width: 50px;
+    height: 50px;
+    margin: 0 auto;
+    border-radius: 10000px;
+}
+.how .how-icon {
+    padding: 20px 0 20px;
+    color: #F62D51;
+    text-align: center;
+}
+
+.how .how-step {
+    margin-bottom: 0;
+}
+
+.how .how-step-row {
+    max-height:140px;
+}
+
+
+.how .how-step-right {
+    padding-top: 60px;
+    border-left: 3px dashed HSLA(205, 85%, 92%, 1);
+}
+
+.how .how-question, .how .how-step-title {
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #00897b !important;
+}
+
+.how .how-question {
+    text-align: center;
+}
+
+.how .how-end-title {
+    text-align: center;
+}
+.how .how-step {
+    margin-bottom: 0;
+}
+
+.how .how-step-left {
+    border-right: 3px dashed HSLA(205, 85%, 92%, 1);
+    min-height: 120px;
+    padding-top: 60px;
+    overflow:hidden;
+}
+
+.container-wide {
+    padding: 0 2em;
+}
+
+/*
+End of How section CSS, start of Quotes section CSS
+ */
+
+.testimonials {
+    margin-top: -20px;
+    background-color: #F9F9FA;
+    color: #A1A7AF;
+    font-weight: 400;
+}
+
+.testimonials .testimionals-testimional {
+    padding: 30px 0;
+}
+
+.testimonials .testimionals-content {
+    padding-top: 20px;
+    max-width: 400px;
+}
+.testimonials .testimionals-author {
+    font-size: 11px;
+    letter-spacing: .5px;
+    font-weight: 500;
+    text-transform: uppercase;
+    padding-top: 3px;
+}
+
+.profileImage {
+    width:100px;
+    height:100px;
+}

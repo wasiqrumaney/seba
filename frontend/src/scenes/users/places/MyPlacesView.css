@@ -1,0 +1,31 @@
+.verticalTabs{
+    height: auto!important;
+    white-space: normal!important;
+}
+.verticalTab{
+    display: block!important;
+    width: 100%!important;
+    border-bottom: 1px solid #f0f0f0!important;
+}
+.verticalTab-content{
+    height: 200px!important;
+    width: 100%!important;
+    background: #fcfcfc!important;
+    border:1px solid #f0f0f0!important;
+}
+.indicator{
+    display: none!important;
+}
+
+.bottomTab {
+    margin-top:140px!important;
+}
+
+.padit {
+    margin: 15px!important;
+    padding:10px!important;
+}
+
+.loadRoot {
+    min-height:300px!important;
+}

@@ -1,0 +1,19 @@
+# Backend
+
+node_modules/
+
+*/node_modules
+*/dump
+*/build
+*/npm-debug.log
+*.env
+*.DS_Store
+
+.idea/
+*/config/config.js
+
+.gitconfig
+
+backend/uploads/*
+
+private/*

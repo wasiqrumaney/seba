@@ -1,0 +1,24 @@
+.grid {
+    display: grid;
+    grid-template-columns: 150px auto 150px;
+    grid-template-rows: repeat(3, 100px);
+    grid-gap: 1em;
+}
+
+
+aside,
+article{
+    background: #eaeaea;
+    padding: 1em;
+}
+
+header, footer {
+    grid-column: 1 / 4;
+}
+
+
+.grid > * {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

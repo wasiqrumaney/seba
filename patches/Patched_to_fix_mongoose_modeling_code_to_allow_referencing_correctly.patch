@@ -1,0 +1,44 @@
+Index: backend/src/models/listing.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- backend/src/models/listing.js	(date 1528131845000)
++++ backend/src/models/listing.js	(date 1528132534000)
+@@ -4,8 +4,7 @@
+ 
+ const ListingSchema  = new mongoose.Schema({
+     owner : {
+-        type: { type: mongoose.Schema.Types.ObjectId, ref: 'User' },
+-        required: true
++        type: { type: mongoose.Schema.Types.ObjectId, ref: 'User' }
+     },
+     title: {
+         type: String,
+@@ -20,7 +19,6 @@
+             detailed: String,
+             original: String
+         },
+-    reviews: [{ type: mongoose.Schema.Types.ObjectId, ref: 'ReviewListing' }],
+ });
+ 
+ module.exports = mongoose.model('Listing', ListingSchema);
+\ No newline at end of file
+Index: backend/src/models/user.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- backend/src/models/user.js	(date 1528131845000)
++++ backend/src/models/user.js	(date 1528132410000)
+@@ -37,8 +37,8 @@
+         },
+     },
+     newsletter : Boolean,
+-    listings : [{ type: mongoose.Schema.Types.ObjectId, ref: 'Listing' }],
+-    reviews: [{ type: mongoose.Schema.Types.ObjectId, ref: 'ReviewUser' }],
++    // listings : [{ type: mongoose.Schema.Types.ObjectId, ref: 'Listing' }],
++    // reviews: [{ type: mongoose.Schema.Types.ObjectId, ref: 'ReviewUser' }],
+ 
+ });
+ 

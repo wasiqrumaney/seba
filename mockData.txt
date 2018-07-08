@@ -1,0 +1,83 @@
+# STRUCTURE
+
+# HOST
+
+	name : Adams Nikolaus
+	own : 10 listings. 4 implemented NOW.
+	email : host@gmail.com
+	
+# SEEKER
+
+	name : Sauer Johannes
+	email : seeker@gmail.com
+	request : 
+		1) LISTING 1, get accepted
+		2) LISTING 2, get rejected
+		3) LISTING 3, pending
+
+### Entries with existing images
+Entry 6: 
+title:Munich, Ex-fitness center locker room for storage, can take big items
+description:We can offer unparalelled amounts of space as we have a massive area for belongs. Also situated on the ground floor, allowing very easy access.
+address[formatted_address]:
+Düsseldorfer Str. 20, 80804 München
+address[lat]:48.1696485
+address[lng]:11.5762054
+
+Entry 7: 
+title:Oktoberfest in Munich!? Just 2 minutse!
+description:We have space for belongings just 2 minutes away from the infamous beers of Munich - however, please note that we only accept requests of at least 4 weeks, and 3+ sqm. Our place looks right upon the Oktoberfest in the summer!
+address[formatted_address]:
+Herzog-Heinrich-Straße 37, 80336 München
+address[lat]:48.1292181
+address[lng]:11.5551067
+
+Entry 8:
+title:Near Hauptbahnhof old Telephone switching office
+description:Storage right by the main train station in Munich, in an old telephone switching connection office. We can only take up to 5sqm of items at once, and cannot offer collection or deposit on Sundays.
+address[formatted_address]:
+Bayerstraße 73, 80335 München
+address[lat]:48.1380389
+address[lng]:11.5585707
+
+Entry 9:
+title:Back area of central Music shop
+description:We can take your belongings during the normal working day as the storage area is attached to our Music shop, meaning we also have very high security with people almost always around.
+address[formatted_address]:
+Sonnenstraße 15, 80331 München
+address[lat]:48.1376108
+address[lng]:11.5652958
+
+Entry 10:
+title:Long Term rent of space, exchange student
+description:Offering space for a minimum of 4 months, as I will do an exchange abroad. Let me know when you need the space!
+address[formatted_address]:
+Holbeinstraße 11, 81679 München
+address[lat]:48.1426993
+address[lng]:11.6035117
+
+### NEW ENTRIES, WITH NEW IMAGE
+
+Entry 5:
+title:East of the Isar in the area of the Ostbahnhof
+description:Perfectly located in walking distance of the Isar, why not leave your stuff here during a great week of exploring the more interesting and subtle villages of Bavaria?
+address[formatted_address]:
+Lothringer Str. 7, 81667 München
+address[lat]:48.1282974
+address[lng]:11.5988228
+
+Entry 11:
+title:Munich, Garage near Olympiazentrum
+description:North and right by the major attractions of Munich, with the regular U3 allowing quick access whenever you need. We can take deposits and allow collections up until 10pm!
+address[formatted_address]:
+Gneisenaustraße 14, 80992 München
+address[lat]:48.17851
+address[lng]:11.53182
+
+Entry 12:
+title:Less than 30 seconds from the U bahn! (Petruelring, Munich)
+description:Across the street from the U bahn exit E of Petruelring, which allows you to very easily collect even heavy belongings at most times of the day. The U bahn station also has a lift which helps with heavier items. 
+address[formatted_address]:
+Birnauer Straße, 80809 München
+address[lat]:48.1755251
+address[lng]:11.5661666
